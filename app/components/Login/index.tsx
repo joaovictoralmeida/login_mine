@@ -37,7 +37,7 @@ export default function Login() {
                         <input type="checkbox" />
                         <label className="text-white pl-3">Lembrar minha senha</label>
                     </div>
-                    <button className="bg-[#269E6D] text-white text-xl py-3 w-full font-semibold rounded-md hover:bg-[#135038] transition-colors">Entrar na conta</button>
+                    <button className="bg-[#269E6D] text-white text-xl py-3 w-full font-semibold rounded-md hover:bg-[#135038] transition-colors mdd:text-lg">Entrar na conta</button>
             
                     <div className="flex justify-center">
                         <Link className="text-[#269E6D] hover:border-b-2 hover:border-[#269E6D]" href="/">
